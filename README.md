@@ -1,7 +1,7 @@
 # ChallengerForoHub
 Crear un foro sobre cualquier tema y que puedan agregar,modificar, y borrar comentarios por parte de los usuarios registrados usando Spring boot 3
 
-
+<img src="/pantallaPrincipal.png">
 
 
 
