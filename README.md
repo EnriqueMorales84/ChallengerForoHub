@@ -6,9 +6,7 @@ Crear un foro sobre cualquier tema y que puedan agregar,modificar, y borrar come
 
 
 <br><br>
-Proyecto que corresponde al tercer challenge de Alura  es nuestro catálogo de libros en el cual la persona usuaria puede registrar libros en una base de datos y recibir información sobre estos libros que ya están registrados en la base de datos. Para este desafío, trabajaremos con las tecnologías Java, Spring y Postgres. 
-
-El usuario contara con un menu , el cual le indicara cuales son las opciones que puede seleccionar , en caso de ingresar un valor diferente, aparecera un mensaje que le informe que ese es un valor incorrecto, o si ingresa un valor no numerico, automaticamente la aplicacion finalizara y necesitara volver a ejecutarla para que pueda comprobar todas las opciones que brinda la aplicacion
+Proyecto que corresponde al tercer challenge de Alura que sera crear un foro sobre cualquier tema y que puedan agregar,modificar, y borrar comentarios por parte de los usuarios registrados usando Spring boot 3
 <br>
 
 <h2> :white_check_mark: Estado del Proyecto: FINALIZADO Y FUNCIONANDO CORRECTAMENTE </h2>
