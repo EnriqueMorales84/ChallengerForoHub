@@ -18,9 +18,8 @@ Proyecto que corresponde al tercer challenge de Alura que sera crear un foro sob
 <br>
 
 <h2> :pencil: Pre-requisitos </h2>
-Deberas de instalar POSTGRES , para poder crear una BD y almacenar la informacion referente a libros y autores, asi como agregar diferentes dependencias en tu archivo pom.xml para tener un correcto funcionamiento 
+Deberas de instalar mysql , para poder crear una BD y almacenar la informacion referente a nuestros usuarios y sus comentarios, asi como agregar diferentes dependencias en tu archivo pom.xml para tener un correcto funcionamiento. 
 
-Una conexión a internet para que la aplicacion pueda acceder a la API y obtener la informacion del libro que desea agregar el usuario.
 
 <img src="/aplicaciones.png" alt="menuPrincipal">
 
